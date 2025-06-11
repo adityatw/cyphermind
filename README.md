@@ -27,7 +27,7 @@ cyphermind/
 ├── prompts/
 │   └── example_prompts.md          # Prompt templates used in the workflow
 ├── config/
-│   └── credentials.json            # External credential store
+│   └── credentials.json            # External credential store to Neo4j
 ├── images/
 │   └── various png files           # Images used in this document
 ├── README.md
